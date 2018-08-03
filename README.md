@@ -1,4 +1,4 @@
-# NumericalMethods
+# Numerical Methods @ the U
 Numerical Methods @ the University of Utah (CHEN 2450) <br/>
 Prof. Tony Saad<br/>
 Assistant Professor of Chemical Engineering<br/>
