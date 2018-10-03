@@ -17,6 +17,10 @@
         margin-left:16% !important;
          margin-right:auto;
     } */
+tr, td, th{
+    font-size:110%;
+}
+
     h1 {
         font-family: 'Bitter', serif;
     }
